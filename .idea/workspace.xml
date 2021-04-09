@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="753ebc59-fc44-4a77-b7fa-44bb2ff08f24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Calculatores/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/src/InputButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/src/Style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculatores/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qwDMlGCstoHeJxpeG57OyVQLaM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculator" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="753ebc59-fc44-4a77-b7fa-44bb2ff08f24" name="Default Changelist" comment="" />
+      <created>1617981712853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617981712853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617982836179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617982836179" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1617982915711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617982915711" />
+    <state x="597" y="196" width="998" height="709" key="SettingsEditor" timestamp="1617982183499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="196" width="998" height="709" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617982183499" />
+  </component>
+</project>
